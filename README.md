@@ -21,11 +21,9 @@ Software Engineer with 8+ years of experience in the design and development of l
       MongoDB
       
   Coding Profiles :
-  
-  <p aligh="left">
-     [![Generic badge](https://img.shields.io/badge/HackerRank-green.svg)](https://shields.io/)
-     Hello
-  </p>
+
+  [![Generic badge](https://img.shields.io/badge/HackerRank-green.svg)](https://www.hackerrank.com/Madhu04835)
+    
   
  
 
