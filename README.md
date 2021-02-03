@@ -24,9 +24,10 @@ Software Engineer with 8+ years of experience in the design and development of l
   Coding Profiles
       
 <p align="left">
-  <a href="https://www.hackerrank.com/Madhu04835"> <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+         <a href="https://www.hackerrank.com/Madhu04835"> <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 
-  <a href="https://stackoverflow.com/users/3244039/madhu04835"> <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
+          <a href="https://stackoverflow.com/users/3244039/madhu04835"> <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
+  
 </p>
 
 
