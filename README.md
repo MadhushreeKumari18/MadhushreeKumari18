@@ -66,6 +66,8 @@ A Software Engineer with 8+ years of experience in the design and development of
  ![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/manumanoj0010/) 
  [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manumanoj0010@gmail.com (mailto:manumanoj0010@gmail.com)
  
+ ![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/manumanoj0010/) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manumanoj0010@gmail.com)](mailto:manumanoj0010@gmail.com) 
+ 
 </p>
 
 
