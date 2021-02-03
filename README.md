@@ -34,10 +34,17 @@ A Software Engineer with 8+ years of experience in the design and development of
       
 ## Reach Me
 
+<p id="socialIcons" align="center">
+    <a href="https://linkedin.com/in/madhushree-kumari" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
+    <a href="https://hackerrank.com/Madhu04835" alt="HackerRank">
+        <img src="https://img.shields.io/badge/-HackerRank-3a424f?style=flat-square&logo=hackerrank" /></a>
+    <a href="https://stackoverflow.com/users/3244039/madhu04835" alt="StackOverflow">
+        <img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" /></a>
+</p>
 
 
-
-[github]: https://github.com/ahsankhan26
+[github]: https://github.com/MadhushreeKumari18
 [linkedin]: https://linkedin.com/in/ahsankhan26
 [hackerrank]: https://hackerrank.com/ahsankhan26
 [stackoverflow]: https://stackoverflow.com/users/13870209/ahsan-khan
