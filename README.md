@@ -58,7 +58,7 @@ A Software Engineer with 8+ years of experience in the design and development of
     
   
   
- [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manumanoj0010@gmail.com)](mailto:manumanoj0010@gmail.com) 
+ [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:madhu.runa18@gmail.com)](mailto:madhu.runa18@gmail.com) 
  
 
 </p>
