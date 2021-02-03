@@ -64,9 +64,9 @@ A Software Engineer with 8+ years of experience in the design and development of
 </p>
 
 
-[linkedin]: https://linkedin.com/in/ahsankhan26
-[hackerrank]: https://hackerrank.com/ahsankhan26
-[stackoverflow]: https://stackoverflow.com/users/13870209/ahsan-khan
+[linkedin]: https://linkedin.com/in/madhushree-kumari
+[hackerrank]: https://hackerrank.com/Madhu04835
+[stackoverflow]: https://stackoverflow.com/users/3244039/madhu04835
 
 
  
