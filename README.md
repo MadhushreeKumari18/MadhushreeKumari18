@@ -55,10 +55,8 @@ A Software Engineer with 8+ years of experience in the design and development of
         <img src="https://img.shields.io/badge/-HackerRank-3a424f?style=flat-square&logo=hackerrank" /></a>
     <a href="https://stackoverflow.com/users/3244039/madhu04835" alt="StackOverflow">
         <img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" /></a>
-    
-  
-  
- [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:madhu.runa18@gmail.com)](mailto:madhu.runa18@gmail.com) 
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:madhu.runa18@gmail.com)](mailto:madhu.runa18@gmail.com) 
  
 
 </p>
