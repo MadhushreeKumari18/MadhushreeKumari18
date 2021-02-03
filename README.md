@@ -20,6 +20,13 @@ Software Engineer with 8+ years of experience in the design and development of l
       Node.js
       MongoDB
       
+<p align="center">
+<a href="https://github.com/AVS1508">
+   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MadhushreeKumari18&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MadhushreeKumari18&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+      
   Coding Profiles :
 
   [![Generic badge](https://img.shields.io/badge/HackerRank-red.svg)](https://www.hackerrank.com/Madhu04835)
