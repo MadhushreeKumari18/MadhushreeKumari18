@@ -39,6 +39,12 @@ Software Engineer with 8+ years of experience in the design and development of l
       SQL,
       Caching (Redis/Guava)
       Microservices Design and Implementation
+      
+  Exposure in :
+      
+      AngularJs, Angular
+      Node.js
+      MongoDB.
 <!--
 **MadhushreeKumari18/MadhushreeKumari18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
