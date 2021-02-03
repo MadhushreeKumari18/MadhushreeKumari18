@@ -4,8 +4,8 @@ Software Engineer with 8+ years of experience in the design and development of l
 
  Proficient in:
       
-      * DataStructures & Algorithms,
-      * System Designs,
+      DataStructures & Algorithms,
+      System Designs,
       Core Java(JDK 1.6, 1.8),
       Spring,
       Hibernate,
