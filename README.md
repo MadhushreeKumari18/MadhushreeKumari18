@@ -30,7 +30,7 @@ A Software Engineer with 8+ years of experience in the design and development of
 </a>
 </p>
       
-### Reach Me
+### 🔗 Reach Me
 
 <p id="socialIcons" align="center">
     <a href="https://linkedin.com/in/madhushree-kumari" alt="LinkedIn">
