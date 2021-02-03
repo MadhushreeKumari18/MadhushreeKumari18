@@ -6,7 +6,6 @@ Software Engineer with 8+ years of experience in the design and development of l
   <tr>
     <td>
       Proficient in:
-
       DataStructures & Algorithms,
       System Designs,
       Core Java(JDK 1.6, 1.8),
@@ -22,7 +21,6 @@ Software Engineer with 8+ years of experience in the design and development of l
   <tr>
     <td>
       Exposure in :
-
       AngularJs, Angular
       Node.js
       MongoDB. 
