@@ -26,12 +26,11 @@ Software Engineer with 8+ years of experience in the design and development of l
       
 ### ⚙️ &nbsp;GitHub Analytics
       
-<p align="left">
+<p align="center">
 <a href="https://github.com/MadhushreeKumari18">
  
    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MadhushreeKumari18&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
  
-   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MadhushreeKumari18&layout=compact&langs_count=8&theme=algolia"/>
  
 </a>
 </p>
@@ -46,9 +45,7 @@ Software Engineer with 8+ years of experience in the design and development of l
 
 
     
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MadhushreeKumari18&layout=compact)](https://github.com/MadhushreeKumari18/github-readme-stats)
-      
-      
+
       
       
       
