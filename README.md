@@ -1,6 +1,6 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
-Software Engineer with 8+ years of experience in the design and development of large scale Distributed Systems. 
+A Software Engineer with 8+ years of experience in the design and development of large scale Distributed Systems. 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/madhushree-kumari/)
 
@@ -47,7 +47,10 @@ Software Engineer with 8+ years of experience in the design and development of l
     
 
       
-      
+<a href="https://github.com/MadhushreeKumari18/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhushreeKumari18&layout=compact&theme=material-palenight" />
+</a>
       
       
       
