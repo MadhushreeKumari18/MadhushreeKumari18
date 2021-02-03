@@ -37,7 +37,7 @@ A Software Engineer with 8+ years of experience in the design and development of
       
 ### ⚙️ &nbsp;GitHub Analytics
       
-<p align="center">
+<p align="left">
 <a href="https://github.com/MadhushreeKumari18">
  
    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MadhushreeKumari18&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
