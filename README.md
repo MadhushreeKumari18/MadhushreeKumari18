@@ -46,7 +46,7 @@ Software Engineer with 8+ years of experience in the design and development of l
 
 
     
-      
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MadhushreeKumari18&layout=compact)](https://github.com/MadhushreeKumari18/github-readme-stats)
       
       
       
