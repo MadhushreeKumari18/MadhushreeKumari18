@@ -17,21 +17,21 @@ A Software Engineer with 8+ years of experience in the design and development of
 
  Proficient in:
       
-      DataStructures & Algorithms,
-      System Designs,
-      Core Java(JDK 1.6, 1.8),
-      Spring,
-      Hibernate,
-      Webservices (REST/SOAP),
-      SQL,
-      Caching (Redis/Guava)
-      Microservices Design and Implementation
+ - DataStructures & Algorithms,
+ - System Designs,
+ - Core Java(JDK 1.6, 1.8),
+ - Spring,
+ - Hibernate,
+ - Webservices (REST/SOAP),
+ - SQL,
+ - Caching (Redis/Guava)
+ - Microservices Design and Implementation
       
   Exposure in :
       
-      AngularJs, Angular
-      Node.js
-      MongoDB
+  - AngularJs, Angular
+  - Node.js
+  - MongoDB
       
 ### ⚙️ &nbsp;GitHub Analytics
       
