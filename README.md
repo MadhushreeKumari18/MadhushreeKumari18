@@ -25,7 +25,7 @@ Software Engineer with 8+ years of experience in the design and development of l
 <p align="left">
 <a href="https://github.com/MadhushreeKumari18">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MadhushreeKumari18&show_icons=truea&layout=compact&theme=algolia"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhushreeKumari18&layout=compact&theme=algolia"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhushreeKumari18&layout=compact&theme=algolia"/>
  
 </a>
 </p>
