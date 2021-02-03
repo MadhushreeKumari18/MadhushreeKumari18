@@ -1,4 +1,4 @@
-### 👨🏻‍💻 &nbsp;About Me
+## <img width="50px" src="https://raw.githubusercontent.com/ms314006/ms314006/basic/resource/gqsm.png" />About Me
 
 A Software Engineer with 8+ years of experience in the design and development of large scale Distributed Systems. 
 
