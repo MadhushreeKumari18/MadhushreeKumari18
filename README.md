@@ -21,7 +21,7 @@ Software Engineer with 8+ years of experience in the design and development of l
       MongoDB
       
       
-  [![Generic badge](https://img.shields.io/badge/HackerRank-<COLOR>.svg)](https://shields.io/)
+  [![Generic badge](https://img.shields.io/badge/HackerRank-green.svg)](https://shields.io/)
 
 
 
