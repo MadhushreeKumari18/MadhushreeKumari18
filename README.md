@@ -1,19 +1,29 @@
-## Software Engineer with 8+ years of experience in the design and development of large scale Distributed Systems.
+Software Engineer with 8+ years of experience in the design and development of large scale Distributed Systems.
 
-Proficient in:
-------------
-DataStructures & Algorithms,
-System Designs,
-Core Java(JDK 1.6, 1.8),
-Spring,
-Hibernate,
-Webservices (REST/SOAP),
-SQL,
-Caching (Redis/Guava)
-Microservices Design and Implementation
+
+<table>
+<tbody>
+  <tr>
+    <td>
+      Proficient in:
+
+      DataStructures & Algorithms,
+      System Designs,
+      Core Java(JDK 1.6, 1.8),
+      Spring,
+      Hibernate,
+      Webservices (REST/SOAP),
+      SQL,
+      Caching (Redis/Guava)
+      Microservices Design and Implementation
+    </td>
+  </tr>
+</tbody>
+</table>
+
 
 Exposure in :
--------------
+
 AngularJs, Angular
 Node.js
 MongoDB. 
