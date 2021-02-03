@@ -3,7 +3,7 @@
 A Software Engineer with 8+ years of experience in the design and development of large scale Distributed Systems. 
 
 - 🔭 I’m currently working as a full stack developer in an MNC.
-- 🌱 I’m currently learning problem solving and system designing skills.
+- 🌱 I’m currently learning complex problem solving and system designing skills.
 
 ### 🛠 &nbsp;Tech Stack
   <!--
