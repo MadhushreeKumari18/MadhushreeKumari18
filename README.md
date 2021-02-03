@@ -16,13 +16,15 @@ Software Engineer with 8+ years of experience in the design and development of l
       SQL,
       Caching (Redis/Guava)
       Microservices Design and Implementation
-      
+     
+   </td>
+   <td>
       Exposure in :
 
       AngularJs, Angular
       Node.js
       MongoDB. 
-   </td>
+  </td>
   </tr>
 </tbody>
 </table>
