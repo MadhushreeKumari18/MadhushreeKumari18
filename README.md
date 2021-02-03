@@ -29,7 +29,7 @@ A Software Engineer with 8+ years of experience in the design and development of
 <p align="center">
 <a href="https://github.com/MadhushreeKumari18">
  
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MadhushreeKumari18&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MadhushreeKumari18&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
  
  
 </a>
