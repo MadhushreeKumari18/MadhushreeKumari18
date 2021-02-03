@@ -43,7 +43,7 @@ A Software Engineer with 8+ years of experience in the design and development of
  
    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MadhushreeKumari18&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MadhushreeKumari18&show_icons=true&theme=onedark&include_all_commits=true&count_private=true)](https://github.com/MadhushreeKumari18/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MadhushreeKumari18&count_private=true)](https://github.com/MadhushreeKumari18/github-readme-stats)
  
 </a>
 </p>
