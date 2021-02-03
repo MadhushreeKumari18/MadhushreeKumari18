@@ -18,7 +18,9 @@ Software Engineer with 8+ years of experience in the design and development of l
       Microservices Design and Implementation
      
    </td>
-   <td>
+  </tr>
+  <tr>
+    <td>
       Exposure in :
 
       AngularJs, Angular
