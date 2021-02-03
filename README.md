@@ -5,7 +5,7 @@ A Software Engineer with 8+ years of experience in the design and development of
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/madhushree-kumari/)
 
 - 🔭 I’m currently working on microservices architecture using Java/REST APIs.
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning problem solving and designing skills.
 
 ### 🛠 &nbsp;Tech Stack
   
