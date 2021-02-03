@@ -20,8 +20,14 @@ Software Engineer with 8+ years of experience in the design and development of l
       Node.js
       MongoDB
       
-      
-  [![Generic badge](https://img.shields.io/badge/HackerRank-green.svg)](https://shields.io/)
+  Coding Profiles :
+  
+  <p aligh="left">
+     [![Generic badge](https://img.shields.io/badge/HackerRank-green.svg)](https://shields.io/)
+     Hello
+  </p>
+  
+ 
 
 
 
