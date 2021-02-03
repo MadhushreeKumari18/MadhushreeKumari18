@@ -48,7 +48,7 @@ A Software Engineer with 8+ years of experience in the design and development of
       
 ### 🔗 Reach Me
 
-<p id="socialIcons" align="center">
+<p id="socialIcons" align="left">
     <a href="https://linkedin.com/in/madhushree-kumari" alt="LinkedIn">
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
     <a href="https://hackerrank.com/Madhu04835" alt="HackerRank">
