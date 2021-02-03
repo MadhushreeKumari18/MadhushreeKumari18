@@ -1,4 +1,4 @@
-Software Engineer with 8+ years of experience in the design and development of large scale Distributed Systems.
+Software Engineer with 8+ years of experience in the design and development of large scale Distributed Systems. [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/madhushree-kumari/)
 
  Proficient in:
       
@@ -24,7 +24,7 @@ Software Engineer with 8+ years of experience in the design and development of l
 
 <a href="https://www.hackerrank.com/Madhu04835"> <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/madhushree-kumari/)
+
     
       
       
