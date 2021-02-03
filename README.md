@@ -1,4 +1,4 @@
-## <img width="50px" src="https://raw.githubusercontent.com/ms314006/ms314006/basic/resource/gqsm.png" />About Me
+## <img src = "https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/femalecodertocat.png" width = "100" height = "100" align = "center">About Me
 
 A Software Engineer with 8+ years of experience in the design and development of large scale Distributed Systems. 
 
