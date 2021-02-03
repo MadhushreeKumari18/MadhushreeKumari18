@@ -22,9 +22,9 @@ Software Engineer with 8+ years of experience in the design and development of l
       
   Coding Profiles :
 
-  [![Generic badge](https://img.shields.io/badge/HackerRank-black.svg)](https://www.hackerrank.com/Madhu04835)
-  [![Generic badge](https://img.shields.io/badge/StackOverflow-black.svg)](https://stackoverflow.com/users/3244039/madhu04835)
-  [![Generic badge](https://img.shields.io/badge/Leetcode-black.svg)](https://leetcode.com/Madhu04835/)
+  [![Generic badge](https://img.shields.io/badge/HackerRank-red.svg)](https://www.hackerrank.com/Madhu04835)
+  [![Generic badge](https://img.shields.io/badge/StackOverflow-red.svg)](https://stackoverflow.com/users/3244039/madhu04835)
+  [![Generic badge](https://img.shields.io/badge/Leetcode-red.svg)](https://leetcode.com/Madhu04835/)
  
 
 
