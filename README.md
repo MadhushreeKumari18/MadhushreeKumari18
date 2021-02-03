@@ -22,6 +22,7 @@ Software Engineer with 8+ years of experience in the design and development of l
   Coding Profiles
       
     <a href="https://www.hackerrank.com/Madhu04835">Hacker Rank</a>
+[![HackerRank Badge](<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>)](https://www.hackerrank.com/Madhu04835)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/madhushree-kumari/)
     
       
