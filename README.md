@@ -1,33 +1,5 @@
 Software Engineer with 8+ years of experience in the design and development of large scale Distributed Systems.
 
-
-<table>
-<tbody>
-  <tr>
-    <td>
-     Exposure in :
-      
-      AngularJs, Angular
-      Node.js
-      MongoDB. 
-     
-   </td>
-  </tr>
-  
-  <tr>
-    <td>
-      Exposure in :
-      
-      AngularJs, Angular
-      Node.js
-      MongoDB. 
-  </td>
-  </tr>
-  
-</tbody>
-</table>
-
-
  Proficient in:
       
       DataStructures & Algorithms,
