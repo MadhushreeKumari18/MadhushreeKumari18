@@ -56,7 +56,7 @@ A Software Engineer with 8+ years of experience in the design and development of
     <a href="https://stackoverflow.com/users/3244039/madhu04835" alt="StackOverflow">
         <img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" /></a>
   
-[![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:madhu.runa18@gmail.com)](mailto:madhu.runa18@gmail.com) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/pdXITkVe1b1_mphqbFQfgA) 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:madhu.runa18@gmail.com)](mailto:madhu.runa18@gmail.com) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/UCpdXITkVe1b1_mphqbFQfgA) 
 
 
 </p>
