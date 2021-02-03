@@ -29,7 +29,7 @@ A Software Engineer with 8+ years of experience in the design and development of
 <p align="center">
 <a href="https://github.com/MadhushreeKumari18">
  
-   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MadhushreeKumari18&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MadhushreeKumari18&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
  
  
 </a>
@@ -46,11 +46,6 @@ A Software Engineer with 8+ years of experience in the design and development of
 
     
 
-      
-<a href="https://github.com/MadhushreeKumari18/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhushreeKumari18&layout=compact&theme=material-palenight" />
-</a>
       
       
       
