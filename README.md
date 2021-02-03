@@ -5,17 +5,11 @@ Software Engineer with 8+ years of experience in the design and development of l
 <tbody>
   <tr>
     <td>
-      Proficient in:
+     Exposure in :
       
-      DataStructures & Algorithms,
-      System Designs,
-      Core Java(JDK 1.6, 1.8),
-      Spring,
-      Hibernate,
-      Webservices (REST/SOAP),
-      SQL,
-      Caching (Redis/Guava)
-      Microservices Design and Implementation
+      AngularJs, Angular
+      Node.js
+      MongoDB. 
      
    </td>
   </tr>
@@ -34,7 +28,17 @@ Software Engineer with 8+ years of experience in the design and development of l
 </table>
 
 
-
+ Proficient in:
+      
+      DataStructures & Algorithms,
+      System Designs,
+      Core Java(JDK 1.6, 1.8),
+      Spring,
+      Hibernate,
+      Webservices (REST/SOAP),
+      SQL,
+      Caching (Redis/Guava)
+      Microservices Design and Implementation
 <!--
 **MadhushreeKumari18/MadhushreeKumari18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
