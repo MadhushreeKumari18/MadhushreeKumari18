@@ -4,6 +4,8 @@ Software Engineer with 8+ years of experience in the design and development of l
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/madhushree-kumari/)
 
+### 🛠 &nbsp;Tech Stack
+
  Proficient in:
       
       DataStructures & Algorithms,
