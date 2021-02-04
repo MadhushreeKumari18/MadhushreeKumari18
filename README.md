@@ -4,7 +4,7 @@ Software Engineer with 8+ years of experience in the design and development of l
 
 - 💻 I’m currently working as a full stack developer in an MNC.
 - 🧠 Enhancing problem solving and system designing skills. 
-- 💡 My hobbies include reading non fictional books 📚 and oil/water painting 🎨.
+- 💡 My hobbies include reading non fictional books 📚 and oil painting/water coloring 🎨.
 
 ### 🛠 &nbsp;Tech Stack
 
