@@ -3,8 +3,8 @@
 Software Engineer with 8+ years of experience in the design and development of large scale Distributed Systems.
 
 - 💻 I’m currently working as a full stack developer in an MNC.
-- 🧠 Enhancing problem solving and system designing skills. 
-- 💡 My hobbies include reading non fictional books 📚 oil painting and water coloring 🎨.
+- 🧠 Enhancing my problem solving and system designing skills. 
+- 💡 In my free time I read non fictional books 📚 do oil painting or water coloring 🎨.
 
 ### 🛠 &nbsp;Tech Stack
 
