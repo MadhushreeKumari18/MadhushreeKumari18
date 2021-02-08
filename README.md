@@ -33,7 +33,7 @@ Software Engineer with 8+ years of experience in the design and development of l
 [![hackerrank](https://img.shields.io/badge/-HackerRank-3a424f?style=flat-square&logo=hackerrank)](https://hackerrank.com/Madhu04835)
 [![Generic badge](https://img.shields.io/badge/LeetCode-green.svg)](https://leetcode.com/Madhu04835/)
 [![stackoverflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/3244039/madhu04835)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCpdXITkVe1b1_mphqbFQfgA/playlists) [![Generic badge](https://img.shields.io/badge/Goodreads-black.svg)](https://www.goodreads.com/user/show/108234599-runa) 
+
 </p>
 
 
