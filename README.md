@@ -3,7 +3,7 @@
 Software Engineer with 8+ years of experience in the design and development of large scale Distributed Systems.
 
 - 💻 I’m currently working as a full stack developer in an MNC.
-- 💡 In my free time I read non fictional books or do oil painting.
+- 💡 I love to read non fictional books in my free time.
 
 ### 🛠 &nbsp;Tech Stack
 
