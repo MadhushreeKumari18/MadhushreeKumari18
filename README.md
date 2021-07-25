@@ -29,8 +29,8 @@ Software Engineer with 8.7 years of experience in the design and development of 
 
 [![linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/madhushree-kumari)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:madhu.runa18@gmail.com)](mailto:madhu.runa18@gmail.com)
-[![Generic badge](https://img.shields.io/badge/Goodreads-orange.svg)](https://www.goodreads.com/user/show/108234599-madhu)
-<!--[![hackerrank](https://img.shields.io/badge/-HackerRank-3a424f?style=flat-square&logo=hackerrank)](https://hackerrank.com/Madhu04835)
+<!--[![Generic badge](https://img.shields.io/badge/Goodreads-orange.svg)](https://www.goodreads.com/user/show/108234599-madhu)
+[![hackerrank](https://img.shields.io/badge/-HackerRank-3a424f?style=flat-square&logo=hackerrank)](https://hackerrank.com/Madhu04835)
 [![Generic badge](https://img.shields.io/badge/LeetCode-green.svg)](https://leetcode.com/Madhu04835/)
 [![Generic badge](https://img.shields.io/badge/YouTube-red.svg)](https://www.youtube.com/channel/UCpdXITkVe1b1_mphqbFQfgA/playlists)-->
 </p>
