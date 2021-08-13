@@ -2,7 +2,8 @@
 
 Software Engineer with 8.7 years of experience in the design and development of large scale Distributed Systems.
 
-- 💻 I’m currently working as a full stack developer in an MNC.
+- Currently pursuing my Masters in Computer Science from Georgia Institute of Technology
+- 💻 Parallely working as a full stack developer in an MNC.
 - 💡 I love to read non fictional books in my free time.
 
 ### 🛠 &nbsp;Tech Stack
