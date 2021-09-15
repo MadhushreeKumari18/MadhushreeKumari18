@@ -36,7 +36,7 @@ Software Engineer with 8.9 years of experience in the design and development of 
 [![Generic badge](https://img.shields.io/badge/YouTube-red.svg)](https://www.youtube.com/channel/UCpdXITkVe1b1_mphqbFQfgA/playlists)-->
 </p>
 
-or mkumari8@gatech.edu
+
 
 
 <!--  [![stackoverflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/3244039/madhu04835) >
