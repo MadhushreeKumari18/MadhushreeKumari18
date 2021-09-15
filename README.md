@@ -35,7 +35,7 @@ Software Engineer with 8.9 years of experience in the design and development of 
 [![Generic badge](https://img.shields.io/badge/LeetCode-green.svg)](https://leetcode.com/Madhu04835/)
 [![Generic badge](https://img.shields.io/badge/YouTube-red.svg)](https://www.youtube.com/channel/UCpdXITkVe1b1_mphqbFQfgA/playlists)-->
 </p>
-mkumari8@gatech.edu
+<a>mkumari8@gatech.edu</a>
 
 
 
