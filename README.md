@@ -1,6 +1,6 @@
 ## <img src = "https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/femalecodertocat.png" width = "100" height = "100" align = "center">About Me  
 
-Software Engineer with 8.9 years of experience in the design and development of large scale Distributed Systems.
+Software Engineer with 9 years of experience in the design and development of large scale Distributed Systems.
 
 - 🎓 Currently pursuing Masters in Computer Science from Georgia Institute of Technology.
 - 💻 Parallely working as a backend developer in an MNC.
