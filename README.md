@@ -28,7 +28,7 @@ Software Engineer with 9 years of experience in the design and development of la
 
 <p id="socialIcons" align="left">
 
-[![linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/madhushree-kumari) or mkumari8@gatech.edu
+[![linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/madhushree-kumari)
 <!--[![Generic badge](https://img.shields.io/badge/Goodreads-orange.svg&link=mailto:mkumari8@gatech.edu)](mailto:mkumari8@gatech.edu)
 [![Generic badge](https://img.shields.io/badge/Goodreads-orange.svg)](https://www.goodreads.com/user/show/108234599-madhu)
 [![hackerrank](https://img.shields.io/badge/-HackerRank-3a424f?style=flat-square&logo=hackerrank)](https://hackerrank.com/Madhu04835)
