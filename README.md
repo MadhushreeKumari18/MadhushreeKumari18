@@ -39,4 +39,4 @@ Software Engineer with 9 years of experience in the design and development of la
 
 
 
-<!--  [![stackoverflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/3244039/madhu04835) >
+<!--  [![stackoverflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)]>
