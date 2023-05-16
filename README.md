@@ -2,7 +2,7 @@
 
 Software Engineer with experience in the design and development of large-scale Distributed Systems.
 
-- 🎓 Currently pursuing Masters in Computer Science from Georgia Institute of Technology.
+- 🎓 Completed my Masters in Computer Science from Georgia Institute of Technology.
 - 💡 I love to read non fictional books in my free time.
 
 ### 🛠 &nbsp;Tech Stack
