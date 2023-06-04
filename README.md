@@ -15,7 +15,7 @@ Software Engineer with experience in the design and development of large-scale D
 <img width="5%" style="padding-right:15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js"/>
 <img width="5%" style="padding-right:15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"/>
 <img width="5%" style="padding-right:15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript"/>
-<img width="5%" style="padding-right:15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws"/>
+
  
 </p>
 
